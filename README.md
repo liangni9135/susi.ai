@@ -35,3 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script type='text/javascript' id='susi-bot-script' data-userid='1a074cf63ef6f7223b20160f0178c92d' data-group='Knowledge' data-language='en' data-skill='<Bot_name>' src='https://susi.ai/susi-chatbot.js'></script>
